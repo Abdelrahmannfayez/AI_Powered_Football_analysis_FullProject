@@ -31,5 +31,8 @@ To run this project, you need to have the following requirements installed:
 
 
 ![gradp1](https://github.com/user-attachments/assets/27ca43da-4417-42d2-b368-e166bcc1b866)
+
 ![gradp2](https://github.com/user-attachments/assets/236e7455-3f51-4528-8019-acf02ae10028)
-![gradp3](https://github.com/user-attachments/assets/77a0ce52-12af-4e71-b1f3-86eb6e7d99ed)
+
+![gradp3](https://github.com/user-attachments/assets/065465e9-dec7-4180-9dd9-0684f97e3afe)
+
